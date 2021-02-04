@@ -1,0 +1,15 @@
+{
+    "name": "caio/filtros-dinamicos",
+    "authors": [
+        {
+            "name": "cdenadai",
+            "email": "cdenadaisouza@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FiltrosDinamicos\\": "app/"
+        }
+    },
+    "require": {}
+}
